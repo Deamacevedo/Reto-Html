@@ -1,0 +1,90 @@
+RETO HTML DYLAN ACEVEDO
+
+* { 
+  margin:0;
+  padding:0;
+}
+a:link, a:visited, a:hover, a:active {
+  color:#cfc;
+  font-size:1em;
+}
+body {
+  background:#eed;
+  font-family:verdana;
+}
+h1 {
+  color:#00a;
+  font-size:1.8em;
+  padding-bottom:.5em; 
+}
+img {
+  height:auto;
+  margin-bottom:.5em;
+  margin-top:.2em;
+  max-width:100%;
+}
+li {
+  margin-left:1.3em;
+  padding-bottom:.3em;
+  padding-right:.2em;
+}
+p {
+  font-size:1em;
+  padding-bottom:.5em; 
+}
+#cabecera {
+  background-color:#000;
+  color:#f96;
+  padding:2%;
+}
+#columnas {
+  background-color:#ddd;
+  overflow:hidden;
+  padding-bottom:2%;
+}
+#contenedor {
+  margin:10px auto;
+  width:95%;
+}
+#contenido {
+  background-color:#ddd;
+  float:left;
+  margin-bottom:-32767px;
+  max-width:-moz-calc(92% - 120px);
+  max-width:-webkit-calc(92% - 120px);
+  max-width:calc(92% - 120px);
+  padding:2%;
+  padding-bottom:32767px;
+  width:71%;
+}
+#menu {
+  background-color:#999;
+  float:left;
+  margin-bottom:-32767px;
+  min-width: 120px;
+  padding:2%;
+  padding-bottom:32767px;
+  width:21%;
+}
+#pie { 
+  background-color:#bbb;
+  clear:both;
+  color:#900;
+  padding:2%;
+  text-align:center;
+}
+
+
+Escribir el código de un documento HTML ("layout-fluido-con-dos-columnas.html") asociado al archivo "estilo-dos-columnas.css" para que al visualizarlo en un navegador web se vea:
+
+
+
+
+
+
+
+El valor del atributo href de los enlaces del menú debe ser: "#"
+En el pie, el enlace hacia el Tutorial de HTML tiene que abrirse en una nueva pestaña del navegador.
+La imagen del "logo de Abrirllave" se puede descargar aquí
+
+
